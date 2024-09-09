@@ -1,0 +1,8 @@
+Lahmacun,20,10,Mevcut
+Hamburger,15,7,Mevcut
+Pizza,25,15,Mevcut
+Tavuk_Doner,18,8,Mevcut
+Izgara_Somon,30,12,Mevcut
+Adana_Kebap,22,10,Mevcut
+Sebze_Salatasi,12,5,Mevcut
+Makarna,16,12,Mevcut
